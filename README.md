@@ -1,4 +1,4 @@
-# Python & Flask Projects Portfolio
+# Python Django & Flask Projects Portfolio
 > Advanced projects from Angela Yu's 100 Days of Code Bootcamp - London App Brewery
 
 This repository demonstrates practical application of Python for Backend Development, API Integration, and Automation. Each project is self-contained with its own README and requirements.
